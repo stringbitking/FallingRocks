@@ -1,0 +1,12 @@
+C:\Users\m_vvv_e\Desktop\TelerikAcademy\C#Part1\FallingRocks\FallingRocks\FallingRocks\bin\Debug\FallingRocks.exe.config
+C:\Users\m_vvv_e\Desktop\TelerikAcademy\C#Part1\FallingRocks\FallingRocks\FallingRocks\bin\Debug\FallingRocks.exe
+C:\Users\m_vvv_e\Desktop\TelerikAcademy\C#Part1\FallingRocks\FallingRocks\FallingRocks\bin\Debug\FallingRocks.pdb
+C:\Users\m_vvv_e\Desktop\TelerikAcademy\C#Part1\FallingRocks\FallingRocks\FallingRocks\obj\Debug\FallingRocks.exe
+C:\Users\m_vvv_e\Desktop\TelerikAcademy\C#Part1\FallingRocks\FallingRocks\FallingRocks\obj\Debug\FallingRocks.pdb
+C:\Users\m_vvv_e\Desktop\TelerikAcademy\C#Part1\FallingRocks\FallingRocks\FallingRocks\obj\Debug\FallingRocks.csprojResolveAssemblyReference.cache
+C:\Documents and Settings\Some\Desktop\TelerikSoftwareAcademy (dovy)\C#\FallingRocks\bin\Debug\FallingRocks.exe.config
+C:\Documents and Settings\Some\Desktop\TelerikSoftwareAcademy (dovy)\C#\FallingRocks\obj\Debug\FallingRocks.exe
+C:\Documents and Settings\Some\Desktop\TelerikSoftwareAcademy (dovy)\C#\FallingRocks\obj\Debug\FallingRocks.pdb
+C:\Documents and Settings\Some\Desktop\TelerikSoftwareAcademy (dovy)\C#\FallingRocks\bin\Debug\FallingRocks.exe
+C:\Documents and Settings\Some\Desktop\TelerikSoftwareAcademy (dovy)\C#\FallingRocks\bin\Debug\FallingRocks.pdb
+C:\Documents and Settings\Some\Desktop\TelerikSoftwareAcademy (dovy)\C#\FallingRocks\obj\Debug\ResolveAssemblyReference.cache
